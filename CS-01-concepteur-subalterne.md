@@ -2,7 +2,7 @@
 
 **Titre du poste :** Concepteur subalterne, Expérience utilisateur et conception de services
 
-**Classification :** 	CS-01
+**Classification :** CS-01
 
 **Exigences linguistiques :** Anglais ou français essentiel, ou BBB
 
